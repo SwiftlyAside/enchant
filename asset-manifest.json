@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SwiftlyAside/enchant/static/css/main.06cc566a.chunk.css",
+    "main.js": "/SwiftlyAside/enchant/static/js/main.88e6036e.chunk.js",
+    "main.js.map": "/SwiftlyAside/enchant/static/js/main.88e6036e.chunk.js.map",
+    "runtime-main.js": "/SwiftlyAside/enchant/static/js/runtime-main.1ef91cc9.js",
+    "runtime-main.js.map": "/SwiftlyAside/enchant/static/js/runtime-main.1ef91cc9.js.map",
+    "static/js/2.6e07e3c4.chunk.js": "/SwiftlyAside/enchant/static/js/2.6e07e3c4.chunk.js",
+    "static/js/2.6e07e3c4.chunk.js.map": "/SwiftlyAside/enchant/static/js/2.6e07e3c4.chunk.js.map",
+    "index.html": "/SwiftlyAside/enchant/index.html",
+    "precache-manifest.c16e62537d7c41c752ed3f071d897eee.js": "/SwiftlyAside/enchant/precache-manifest.c16e62537d7c41c752ed3f071d897eee.js",
+    "service-worker.js": "/SwiftlyAside/enchant/service-worker.js",
+    "static/css/main.06cc566a.chunk.css.map": "/SwiftlyAside/enchant/static/css/main.06cc566a.chunk.css.map",
+    "static/js/2.6e07e3c4.chunk.js.LICENSE.txt": "/SwiftlyAside/enchant/static/js/2.6e07e3c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef91cc9.js",
+    "static/js/2.6e07e3c4.chunk.js",
+    "static/css/main.06cc566a.chunk.css",
+    "static/js/main.88e6036e.chunk.js"
+  ]
+}
